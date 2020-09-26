@@ -1,0 +1,13 @@
+C:\Users\Lia Calderon\Desktop\CounterFinal\bin\Debug\netcoreapp3.1\CounterFinal.exe
+C:\Users\Lia Calderon\Desktop\CounterFinal\bin\Debug\netcoreapp3.1\CounterFinal.deps.json
+C:\Users\Lia Calderon\Desktop\CounterFinal\bin\Debug\netcoreapp3.1\CounterFinal.runtimeconfig.json
+C:\Users\Lia Calderon\Desktop\CounterFinal\bin\Debug\netcoreapp3.1\CounterFinal.runtimeconfig.dev.json
+C:\Users\Lia Calderon\Desktop\CounterFinal\bin\Debug\netcoreapp3.1\CounterFinal.dll
+C:\Users\Lia Calderon\Desktop\CounterFinal\bin\Debug\netcoreapp3.1\CounterFinal.pdb
+C:\Users\Lia Calderon\Desktop\CounterFinal\obj\Debug\netcoreapp3.1\CounterFinal.csprojAssemblyReference.cache
+C:\Users\Lia Calderon\Desktop\CounterFinal\obj\Debug\netcoreapp3.1\CounterFinal.AssemblyInfoInputs.cache
+C:\Users\Lia Calderon\Desktop\CounterFinal\obj\Debug\netcoreapp3.1\CounterFinal.AssemblyInfo.cs
+C:\Users\Lia Calderon\Desktop\CounterFinal\obj\Debug\netcoreapp3.1\CounterFinal.csproj.CoreCompileInputs.cache
+C:\Users\Lia Calderon\Desktop\CounterFinal\obj\Debug\netcoreapp3.1\CounterFinal.dll
+C:\Users\Lia Calderon\Desktop\CounterFinal\obj\Debug\netcoreapp3.1\CounterFinal.pdb
+C:\Users\Lia Calderon\Desktop\CounterFinal\obj\Debug\netcoreapp3.1\CounterFinal.genruntimeconfig.cache
